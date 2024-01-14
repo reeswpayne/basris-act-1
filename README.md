@@ -6,7 +6,7 @@ To play the game, download CYF Version 0.6.4 from here: https://github.com/Rhena
 
 ## Credits
 
--Unitale Engine by Ivkuln\n
--Create Your Frisk and Create Your Kris by RhenaudTheLukark\n
--MEOW Overworld by AlexiaTilde\n
--All sprites and music belong to their original owners, full credits in-game
+Unitale Engine by Ivkuln
+Create Your Frisk and Create Your Kris by RhenaudTheLukark
+MEOW Overworld by AlexiaTilde
+All sprites and music belong to their original owners, full credits in-game
